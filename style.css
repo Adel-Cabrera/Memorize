@@ -1,0 +1,15 @@
+img{
+  width: 200px;
+  heigth: 200px;
+}
+
+.notseen{
+  box-sizing: border-box !important;
+  display: block !important;
+  z-index: 1;
+  padding-left: 200px; 
+  width: 200px; /* Width of new image */
+  height: 200px; /* Height of new image */
+  /* margin-left: 24px; */ 
+  background-image: url(https://via.placeholder.com/300);
+}
